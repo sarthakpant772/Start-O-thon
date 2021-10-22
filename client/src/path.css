@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* ul {
+    list-style-type: none;
+} */
+
+.left {
+    float: left;
+    /* background: url(images/line-1.png) center top no-repeat ; */
+    
+}
+
+.right {
+    float: right;
+}
+
+.container {
+    background-color: wheat;
+}
+
+.row{
+    /* background-color: #FFFF; */
+    margin: 20px 90px 20px 90px;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+img {
+
+    height: 200px;
+    width: 200px;
+}
+
+.content h4, p {
+    color: black;
+}
+
+.content h4 {
+    font-size: larger;
+}
+
+.content p {
+    margin-top: 12px;
+    width: 500px;
+}
