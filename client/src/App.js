@@ -3,6 +3,7 @@ import React from "react";
 import Path from "./Path";
 import android from "./images/android.png";
 
+
 // import { Route, Link } from 'react-router-dom';
 
 // import Home from './Home';
@@ -18,8 +19,6 @@ function App() {
         img={android} side="left"
       />
 
-      <Path title="Android Design" data="Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius dignissimos animi, non, iure enim optio error blanditiis, nulla necessitatibus repellendus quod? Qui fugit dolorum praesentium, dolor tenetur explicabo suscipit id minus nihil quae, deleniti nam mollitia quam, alias similique sed. Possimus ipsa rerum dignissimos quod, doloribus deleniti similique assumenda placeat?"
-        img={android} side="right"/> 
     </div>
   );
 }
